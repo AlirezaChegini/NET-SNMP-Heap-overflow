@@ -1,7 +1,7 @@
 # rejected - It was a mistake
 
 Vulnerability as "Heap Overflow" has not happened and that was my mistake.  
-Thanks to "Rocobo" for Notify me anonymously in telegram  
+Thanks to "TheShark" for Notify me anonymously in telegram  
 But I still haven't found the reason for the infinite loop you see in the demo
 
 ###### DEMO
